@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langchain-community
+langgraph
+duckduckgo-search
+rich
+python-dotenv
+requests
+ddgs
